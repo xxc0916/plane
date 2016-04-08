@@ -14,7 +14,7 @@ cc.Class({
             default:null,
             type:cc.Prefab
         },
-        genbulletspeedtime:2,
+        genbulletspeedtime:0,
         // foo: {
         //    default: null,
         //    url: cc.Texture2D,  // optional, default is typeof default
@@ -31,6 +31,7 @@ cc.Class({
         var action = cc.sequence(cc.fadeOut(0),cc.fadeIn(1));
         this.canvas.runAction(action);
         this.genbulletTime = 0;
+        this.bulletsContainer = new Array();
     },
 
     // called every frame, uncomment this function to activate update callback
@@ -43,8 +44,9 @@ cc.Class({
         this.genbulletTime += dt;
         if (this.genbulletTime >= this.genbulletspeedtime) {
             this.genbulletTime = 0;
-            var m_bullet = cc.instantiate(bullet);
-            m_bullet.setPosition(this.node.getPositionX(),this.node.getPositionY());
+            var m_bullet = cc.instantiate(this.bulletPre);
+            m_bullet.setPosition(this.player.getPositionX(),this.player.getPositionY());
+            m_bullet.parent = this.canvas;
         }
     },
     
