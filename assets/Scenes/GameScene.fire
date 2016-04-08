@@ -585,8 +585,12 @@
     "canvas": {
       "__id__": 2
     },
-    "player": null,
-    "bulletPre": null,
-    "genbulletspeedtime": 2
+    "player": {
+      "__id__": 13
+    },
+    "bulletPre": {
+      "__uuid__": "3d07250c-266e-4a81-a4f7-44188a10319c"
+    },
+    "genbulletspeedtime": 0.4
   }
 ]
