@@ -10,7 +10,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "Bullet",
+    "_name": "enemy1",
     "_objFlags": 0,
     "_opacity": 255,
     "_color": {
@@ -29,8 +29,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 9,
-      "height": 21
+      "width": 51,
+      "height": 39
     },
     "_children": [],
     "_rotationX": 0,
@@ -39,8 +39,8 @@
     "_scaleY": 1,
     "_position": {
       "__type__": "cc.Vec2",
-      "x": 167,
-      "y": 294
+      "x": 159,
+      "y": 605
     },
     "_skewX": 0,
     "_skewY": 0,
@@ -59,12 +59,15 @@
       },
       {
         "__id__": 4
+      },
+      {
+        "__id__": 5
       }
     ],
     "_prefab": {
-      "__id__": 5
+      "__id__": 6
     },
-    "groupIndex": 1
+    "groupIndex": 3
   },
   {
     "__type__": "cc.Sprite",
@@ -75,7 +78,7 @@
     },
     "_enabled": true,
     "_spriteFrame": {
-      "__uuid__": "53ff9255-5135-4a1b-a3e4-bcf656c0606a"
+      "__uuid__": "ea08adfc-cd15-49dc-ae0a-cf4a47b3a3bb"
     },
     "_type": 0,
     "_sizeMode": 1,
@@ -95,14 +98,31 @@
     }
   },
   {
-    "__type__": "6a411rnLEZN2p+zptJkPwUi",
+    "__type__": "cc.Animation",
     "_name": "",
     "_objFlags": 0,
     "node": {
       "__id__": 1
     },
     "_enabled": true,
-    "speed": 20
+    "_defaultClip": {
+      "__uuid__": "309eb0fe-65d4-478b-9100-a4dfa4e56cd8"
+    },
+    "_clips": [
+      {
+        "__uuid__": "309eb0fe-65d4-478b-9100-a4dfa4e56cd8"
+      }
+    ],
+    "playOnLoad": false
+  },
+  {
+    "__type__": "3cd842/eqBFSYSm9quFrSp6",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true
   },
   {
     "__type__": "cc.BoxCollider",
@@ -115,13 +135,13 @@
     "tag": 0,
     "_offset": {
       "__type__": "cc.Vec2",
-      "x": 0,
-      "y": 0
+      "x": 1,
+      "y": 1
     },
     "_size": {
       "__type__": "cc.Size",
-      "width": 10.1,
-      "height": 21.5
+      "width": 54,
+      "height": 41
     }
   },
   {
@@ -129,9 +149,7 @@
     "root": {
       "__id__": 1
     },
-    "asset": {
-      "__uuid__": "3d07250c-266e-4a81-a4f7-44188a10319c"
-    },
-    "fileId": "affd88YxxlP/4Y3BNU8n83P"
+    "asset": null,
+    "fileId": "8e25dTKQoJFSqYCH8AC+zWk"
   }
 ]

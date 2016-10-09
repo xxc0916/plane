@@ -1,0 +1,17 @@
+{
+  "excludeScenes": [],
+  "includeAnysdk": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.plane",
+  "startScene": "3ab7ad53-638f-4ca6-a8f5-46dab56fb910",
+  "title": "plane",
+  "webOrientation": "auto"
+}

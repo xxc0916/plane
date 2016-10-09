@@ -1,5 +1,5 @@
 {
-  "ver": "1.2.0",
+  "ver": "1.2.4",
   "uuid": "ca6669bc-fe06-41b6-a0cf-e95740b4da3d",
   "rawTextureUuid": "e10cd13c-e4df-491f-8635-55a11a769b94",
   "size": {
@@ -7,10 +7,9 @@
     "height": 512
   },
   "type": "Texture Packer",
-  "rawTextureUrl": "db://assets/Resources/data.png",
   "subMetas": {
     "player_1.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "ee49aeab-fd12-4bf5-bcaf-b18e3e561aff",
       "rawTextureUuid": "e10cd13c-e4df-491f-8635-55a11a769b94",
       "trimType": "auto",
@@ -22,6 +21,8 @@
       "trimY": 135,
       "width": 131,
       "height": 163,
+      "rawWidth": 131,
+      "rawHeight": 163,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -30,7 +31,7 @@
       "subMetas": {}
     },
     "player_2.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "d2a22719-1089-4009-be1f-9231bc80a308",
       "rawTextureUuid": "e10cd13c-e4df-491f-8635-55a11a769b94",
       "trimType": "auto",
@@ -42,6 +43,8 @@
       "trimY": 2,
       "width": 131,
       "height": 163,
+      "rawWidth": 131,
+      "rawHeight": 163,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

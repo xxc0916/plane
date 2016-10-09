@@ -1,5 +1,5 @@
 {
-  "ver": "1.2.0",
+  "ver": "1.2.4",
   "uuid": "2c6b7472-31c4-4fa7-ac77-a92e44d009b4",
   "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
   "size": {
@@ -7,10 +7,9 @@
     "height": 1024
   },
   "type": "Texture Packer",
-  "rawTextureUrl": "db://assets/Resources/shoot.png",
   "subMetas": {
     "bomb.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "c913e6e2-da50-41b7-85f6-6b355380a7c5",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -22,6 +21,8 @@
       "trimY": 2,
       "width": 63,
       "height": 53,
+      "rawWidth": 63,
+      "rawHeight": 57,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -30,7 +31,7 @@
       "subMetas": {}
     },
     "bullet1.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "53ff9255-5135-4a1b-a3e4-bcf656c0606a",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -42,6 +43,8 @@
       "trimY": 2,
       "width": 9,
       "height": 21,
+      "rawWidth": 9,
+      "rawHeight": 21,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -50,7 +53,7 @@
       "subMetas": {}
     },
     "bullet2.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "72e4af6b-4a6e-4fd5-9d1f-23f31d56c1a7",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -62,6 +65,8 @@
       "trimY": 2,
       "width": 9,
       "height": 21,
+      "rawWidth": 9,
+      "rawHeight": 21,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -70,7 +75,7 @@
       "subMetas": {}
     },
     "enemy1.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "ea08adfc-cd15-49dc-ae0a-cf4a47b3a3bb",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -82,6 +87,8 @@
       "trimY": 2,
       "width": 51,
       "height": 39,
+      "rawWidth": 57,
+      "rawHeight": 43,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -90,7 +97,7 @@
       "subMetas": {}
     },
     "enemy1_down1.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "a7093e43-d2d6-4375-b35a-a7f1325a5d4d",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -102,6 +109,8 @@
       "trimY": 2,
       "width": 51,
       "height": 39,
+      "rawWidth": 57,
+      "rawHeight": 51,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -110,7 +119,7 @@
       "subMetas": {}
     },
     "enemy1_down2.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "30ecdf2d-1e4b-44e5-975f-7712e1d4a40d",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -122,6 +131,8 @@
       "trimY": 2,
       "width": 51,
       "height": 47,
+      "rawWidth": 57,
+      "rawHeight": 51,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -130,7 +141,7 @@
       "subMetas": {}
     },
     "enemy1_down3.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "4dcfb453-d335-493e-b3ea-3f9cec1e6ed1",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -142,6 +153,8 @@
       "trimY": 2,
       "width": 57,
       "height": 51,
+      "rawWidth": 57,
+      "rawHeight": 51,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -150,7 +163,7 @@
       "subMetas": {}
     },
     "enemy1_down4.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "b4d13c2f-bb5b-4139-abd6-b6556accd207",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -162,6 +175,8 @@
       "trimY": 2,
       "width": 47,
       "height": 39,
+      "rawWidth": 57,
+      "rawHeight": 51,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -170,7 +185,7 @@
       "subMetas": {}
     },
     "enemy2.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "01d13a98-1cc1-4ab7-a284-4376d73b1c07",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -182,6 +197,8 @@
       "trimY": 2,
       "width": 69,
       "height": 89,
+      "rawWidth": 69,
+      "rawHeight": 99,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -190,7 +207,7 @@
       "subMetas": {}
     },
     "enemy2_down1.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "c986c656-3c2b-41b6-93bb-7af0e35ada12",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -202,6 +219,8 @@
       "trimY": 42,
       "width": 69,
       "height": 93,
+      "rawWidth": 69,
+      "rawHeight": 95,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -210,7 +229,7 @@
       "subMetas": {}
     },
     "enemy2_down2.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "6a6e63e5-5c54-47ac-89b6-8cb42edc1cb6",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -222,6 +241,8 @@
       "trimY": 2,
       "width": 69,
       "height": 93,
+      "rawWidth": 69,
+      "rawHeight": 95,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -230,7 +251,7 @@
       "subMetas": {}
     },
     "enemy2_down3.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "afff7159-00cd-4559-9d65-3f8d9403047b",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -242,6 +263,8 @@
       "trimY": 46,
       "width": 69,
       "height": 95,
+      "rawWidth": 69,
+      "rawHeight": 95,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -250,7 +273,7 @@
       "subMetas": {}
     },
     "enemy2_down4.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "3d0498f5-2f1d-4565-a161-17a2a7afd480",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -262,6 +285,8 @@
       "trimY": 43,
       "width": 69,
       "height": 77,
+      "rawWidth": 69,
+      "rawHeight": 95,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -270,7 +295,7 @@
       "subMetas": {}
     },
     "enemy2_hit.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "c7ea3532-780d-4c40-9e47-a7d01b513e98",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -282,6 +307,8 @@
       "trimY": 43,
       "width": 69,
       "height": 95,
+      "rawWidth": 69,
+      "rawHeight": 99,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -290,7 +317,7 @@
       "subMetas": {}
     },
     "enemy3_down1.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "c88fd2f8-c758-4b36-9b26-05d4bd343f45",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -302,6 +329,8 @@
       "trimY": 324,
       "width": 165,
       "height": 255,
+      "rawWidth": 165,
+      "rawHeight": 261,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -310,7 +339,7 @@
       "subMetas": {}
     },
     "enemy3_down2.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "eabe6220-a597-4c94-a484-6f5ce3a00f6a",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -322,6 +351,8 @@
       "trimY": 164,
       "width": 165,
       "height": 255,
+      "rawWidth": 165,
+      "rawHeight": 261,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -330,7 +361,7 @@
       "subMetas": {}
     },
     "enemy3_down3.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "171e63bc-9dfa-4f5d-8fd8-2be304c0ff24",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -342,6 +373,8 @@
       "trimY": 331,
       "width": 165,
       "height": 256,
+      "rawWidth": 165,
+      "rawHeight": 260,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -350,7 +383,7 @@
       "subMetas": {}
     },
     "enemy3_down4.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "be08bbb8-4439-461b-befc-a500abb33289",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -362,6 +395,8 @@
       "trimY": 157,
       "width": 165,
       "height": 255,
+      "rawWidth": 165,
+      "rawHeight": 261,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -370,7 +405,7 @@
       "subMetas": {}
     },
     "enemy3_down5.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "73d8dbee-5822-49dc-8887-b16218d9afda",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -382,6 +417,8 @@
       "trimY": 498,
       "width": 166,
       "height": 256,
+      "rawWidth": 166,
+      "rawHeight": 260,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -390,7 +427,7 @@
       "subMetas": {}
     },
     "enemy3_down6.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "d1e2229d-dede-4432-b542-e61807dc0198",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -402,6 +439,8 @@
       "trimY": 114,
       "width": 144,
       "height": 203,
+      "rawWidth": 166,
+      "rawHeight": 261,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -410,7 +449,7 @@
       "subMetas": {}
     },
     "enemy3_hit.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "b47a9484-6e75-403d-a0fa-4928ee8d276f",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -422,6 +461,8 @@
       "trimY": 175,
       "width": 165,
       "height": 256,
+      "rawWidth": 169,
+      "rawHeight": 258,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -430,7 +471,7 @@
       "subMetas": {}
     },
     "enemy3_n1.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "5a61c418-9f92-46fb-9c1c-1d8bb1cc73d1",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -442,6 +483,8 @@
       "trimY": 342,
       "width": 165,
       "height": 246,
+      "rawWidth": 169,
+      "rawHeight": 258,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -450,7 +493,7 @@
       "subMetas": {}
     },
     "enemy3_n2.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "9668587d-466b-46ee-8e77-763b6351eba1",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -462,6 +505,8 @@
       "trimY": 342,
       "width": 165,
       "height": 250,
+      "rawWidth": 169,
+      "rawHeight": 258,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -470,7 +515,7 @@
       "subMetas": {}
     },
     "game_pause_nor.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "def73014-aa77-468a-a7a8-099f1c63055d",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -482,6 +527,8 @@
       "trimY": 2,
       "width": 42,
       "height": 45,
+      "rawWidth": 60,
+      "rawHeight": 45,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -490,7 +537,7 @@
       "subMetas": {}
     },
     "game_pause_pressed.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "31e80d47-60ed-4957-848d-0bf33fc0ae37",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -502,6 +549,8 @@
       "trimY": 2,
       "width": 42,
       "height": 45,
+      "rawWidth": 60,
+      "rawHeight": 45,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -510,7 +559,7 @@
       "subMetas": {}
     },
     "game_resume_nor.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "4731624f-ee27-4ab1-844b-fba95d9f7c03",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -522,6 +571,8 @@
       "trimY": 2,
       "width": 38,
       "height": 41,
+      "rawWidth": 60,
+      "rawHeight": 45,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -530,7 +581,7 @@
       "subMetas": {}
     },
     "game_resume_pressed.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "01ce32a3-577f-4781-8ba1-8bab8f490560",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -542,6 +593,8 @@
       "trimY": 2,
       "width": 38,
       "height": 41,
+      "rawWidth": 60,
+      "rawHeight": 45,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -550,7 +603,7 @@
       "subMetas": {}
     },
     "hero1.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "79094130-02b4-4e4e-959d-62afebe47860",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -562,6 +615,8 @@
       "trimY": 73,
       "width": 100,
       "height": 124,
+      "rawWidth": 102,
+      "rawHeight": 126,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -570,7 +625,7 @@
       "subMetas": {}
     },
     "hero2.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "9a9f4a08-da0d-40e4-9049-65e563e2b347",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -582,6 +637,8 @@
       "trimY": 55,
       "width": 100,
       "height": 122,
+      "rawWidth": 102,
+      "rawHeight": 126,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -590,7 +647,7 @@
       "subMetas": {}
     },
     "hero_blowup_n1.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "213f7c4f-d107-4489-a2e5-4f7857b10210",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -602,6 +659,8 @@
       "trimY": 73,
       "width": 98,
       "height": 124,
+      "rawWidth": 102,
+      "rawHeight": 126,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -610,7 +669,7 @@
       "subMetas": {}
     },
     "hero_blowup_n2.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "9e09d638-6d8f-4064-831f-2ff4e48e4db1",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -622,6 +681,8 @@
       "trimY": 64,
       "width": 98,
       "height": 124,
+      "rawWidth": 102,
+      "rawHeight": 126,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -630,7 +691,7 @@
       "subMetas": {}
     },
     "hero_blowup_n3.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "068177f5-ffdb-42a7-acf5-f1dd4b0ef03e",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -642,6 +703,8 @@
       "trimY": 62,
       "width": 98,
       "height": 124,
+      "rawWidth": 102,
+      "rawHeight": 126,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -650,7 +713,7 @@
       "subMetas": {}
     },
     "hero_blowup_n4.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "4675d31e-6328-4672-a9ca-a6a65f0dd49e",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -662,6 +725,8 @@
       "trimY": 2,
       "width": 66,
       "height": 78,
+      "rawWidth": 102,
+      "rawHeight": 126,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -670,7 +735,7 @@
       "subMetas": {}
     },
     "ufo1.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "34551bb2-2093-430b-8acc-a059a172fc34",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -682,6 +747,8 @@
       "trimY": 2,
       "width": 58,
       "height": 88,
+      "rawWidth": 58,
+      "rawHeight": 88,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
@@ -690,7 +757,7 @@
       "subMetas": {}
     },
     "ufo2.png": {
-      "ver": "1.0.2",
+      "ver": "1.0.3",
       "uuid": "221eb1b7-7ddd-4b0e-ab0d-7f6ec6e98caf",
       "rawTextureUuid": "c9445abc-bd71-4c72-9c49-fd467d82ba05",
       "trimType": "auto",
@@ -702,6 +769,8 @@
       "trimY": 2,
       "width": 60,
       "height": 103,
+      "rawWidth": 60,
+      "rawHeight": 107,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
